@@ -1,0 +1,54 @@
+{
+  "datetime": "2023-04-04 15:30",
+  "code": "0",
+  "data": {
+    "code": "300333",
+    "name": "兆日科技",
+    "close": "7.24",
+    "open": "7.26",
+    "now": "7.31",
+    "high": "7.39",
+    "low": "7.16",
+    "volume": 206760,
+    "amount": 150350328.11,
+    "delta": "0.07",
+    "deltaPercent": "0.97",
+    "lastVolume": 6683,
+    "marketTime": "2023-04-04 15:30:00",
+    "sellbuy5": [
+      { "price": "7.31", "volume": 2516 },
+     
+    ],
+    "sellbuy1": [
+      { "price": "7.31", "volume": 0 },
+      { "price": "7.31", "volume": 0 }
+    ],
+    "picupdata": [
+      ["09:30", "7.26", "7.26", "0.02", "0.28", 707, 513282.0],
+      
+      ["15:30", "7.31", "7.27", "0.07", "0.97", 0, 0.0]
+    ],
+    "picdowndata": [
+      ["09:30", 707, "plus"],
+    
+      ["15:30", 0, "plus"]
+    ],
+    "picavgprice": [
+     
+      ["15:30", 7.27]
+    ],
+    "groupId": 17,
+    "volumeAhT": 72,
+    "amountAhT": 52632.0,
+    "tradingPhaseCode1": "00",
+    "tradingPhaseCode2": "00",
+    "isCDR": false,
+    "isNoProfit": 1,
+    "isVoteDifferent": 1,
+    "isVIE": 2,
+    "isRegistration": 2,
+    "change20PerLimit": false,
+    "isDelisting": null
+  },
+  "message": "成功"
+}
